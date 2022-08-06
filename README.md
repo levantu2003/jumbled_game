@@ -1,2 +1,2 @@
 # jumbled_game
-My 3rd project from python.
+My 3rd project about python.
